@@ -16,7 +16,7 @@ clear
 echo -e "${CYAN}"
 echo "══════════════════════════════════════════════"
 echo "        FEATHERPANEL CONTROL MENU"
-echo "        The Coding Hub | Auto Script"
+echo "        HexCloud | Auto Script"
 echo "══════════════════════════════════════════════"
 echo -e "${NC}"
 }

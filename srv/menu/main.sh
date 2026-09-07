@@ -1,7 +1,7 @@
 #!/bin/bash
  bash <(curl -s https://raw.githubusercontent.com/novavcrp-elite/Hexcloud-Installer/main/srv/menu/license.sh)
 # ===========================================================
-# CODING HUB Terminal Control Panel
+# HEXCLOUD Terminal Control Panel
 # Mode By - HexCloud
 # ===========================================================
 
@@ -154,7 +154,7 @@ case $c in
  5) theme_menu ;;
  6) bash <(curl -s https://raw.githubusercontent.com/novavcrp-elite/Hexcloud-Installer/main/srv/menu/System1.sh) ;;
  7) bash <(curl -s https://raw.githubusercontent.com/novavcrp-elite/Hexcloud-Installer/main/srv/External/INFRA.sh) ;;
- 8) echo -e "${GREEN}Exiting — CODING HUB by HexCloud${NC}"; exit ;;
+ 8) echo -e "${GREEN}Exiting — HEXCLOUD by HexCloud${NC}"; exit ;;
  *) echo -e "${RED}Invalid${NC}"; pause ;;
 esac
 done

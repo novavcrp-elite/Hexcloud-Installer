@@ -1,6 +1,6 @@
 #!/bin/bash
 # ===========================================================
-# CODING HUB Terminal Control Panel
+# HEXCLOUD Terminal Control Panel
 # Mode By - HexCloud
 # ===========================================================
 
@@ -138,7 +138,7 @@ case $c in
  3) bash <(curl -s https://raw.githubusercontent.com/novavcrp-elite/Hexcloud-Installer/main/srv/Uninstall/unwings.sh) ;;
  4) tools_menu;;
  5) theme_menu;;
- 6) echo -e "${GREEN}Exiting — CODING HUB by HexCloud${NC}"; exit;;
+ 6) echo -e "${GREEN}Exiting — HEXCLOUD by HexCloud${NC}"; exit;;
  *) echo -e "${RED}Invalid${NC}"; pause;;
 esac
 done
