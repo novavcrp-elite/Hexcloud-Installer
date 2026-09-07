@@ -270,6 +270,6 @@ echo -e "${CYAN}  📂 Config edit:   ${GREEN}nano /etc/pterodactyl/config.yml${
 echo -e ""
 echo -e "${BLUE}┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓${NC}"
 echo -e "${BLUE}┃        🌟 THANK YOU FOR CHOOSING             ┃${NC}"
-echo -e "${BLUE}┃           Nobita-hosting!                    ┃${NC}"
+echo -e "${BLUE}┃           HexCloud-hosting!                    ┃${NC}"
 echo -e "${BLUE}┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛${NC}"
 echo -e ""

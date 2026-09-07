@@ -1,7 +1,7 @@
 #!/bin/bash
 # ===========================================================
 # CODING HUB Terminal Control Panel
-# Mode By - Nobita
+# Mode By - HexCloud
 # ===========================================================
 
 # --- COLORS ---
@@ -29,7 +29,7 @@ banner(){
     echo -e "${YELLOW} ╚═════╝ ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝     ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ${NC}"
     echo -e ""
     echo -e "${BLUE}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
-    echo -e "                      ${WHITE}Mode By - Nobita${NC}"
+    echo -e "                      ${WHITE}Mode By - HexCloud${NC}"
     echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
     echo
 }
@@ -138,7 +138,7 @@ case $c in
  3) bash <(curl -s https://raw.githubusercontent.com/nobita54/-150/refs/heads/main/Uninstall/unwings.sh) ;;
  4) tools_menu;;
  5) theme_menu;;
- 6) echo -e "${GREEN}Exiting — CODING HUB by Nobita${NC}"; exit;;
+ 6) echo -e "${GREEN}Exiting — CODING HUB by HexCloud${NC}"; exit;;
  *) echo -e "${RED}Invalid${NC}"; pause;;
 esac
 done

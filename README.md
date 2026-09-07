@@ -1,5 +1,5 @@
 
-# 🚀 The Coding Hub
+# 🚀 Hexcloud-Installer
 
 **All-in-One Installer Script**
 
@@ -8,9 +8,9 @@
 
 ---
 
-## 🔧 What is The Coding Hub?
+## 🔧 What is Hexcloud-Installer?
 
-**The Coding Hub** is an **all-in-one installation script** designed to simplify server setup.
+**Hexcloud-Installer** is an **all-in-one installation script** designed to simplify server setup.
 Panels, services, configs — sab kuch ek hi command me.
 Perfect for devs, hosters, and late-night sysadmins running on coffee ☕.
 
@@ -21,7 +21,7 @@ Perfect for devs, hosters, and late-night sysadmins running on coffee ☕.
 Run this command as **root** or with **sudo**:
 
 ```bash
-bash <(curl -s https://ptero.nobitapro.online)
+bash <(curl -s https://ptero.nobitahost.in)
 ```
 
 That’s it.
@@ -41,6 +41,12 @@ Script khud bolega: *“Relax, main sambhal lunga.”*
 
 ---
 
+## 🌐 Source
+
+<https://github.com/novavcrp-elite/Hexcloud-Installer>
+
+---
+
 ## 🛡️ Requirements
 
 * Linux VPS / Dedicated Server
@@ -55,7 +61,7 @@ Script khud bolega: *“Relax, main sambhal lunga.”*
 This script makes **system-level changes**.
 Use it on a **fresh server** or **test environment** first.
 
-> Power by nobita
+> Power by HexCloud
 
 
 

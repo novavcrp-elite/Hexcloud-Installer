@@ -33,7 +33,7 @@ cat << "EOF"
  █████      ░░██████ ░░████████  ░░█████  ████ █████░░██████  █████        █████       ░░████████ ████ █████░░██████  █████
 ░░░░░        ░░░░░░   ░░░░░░░░    ░░░░░  ░░░░ ░░░░░  ░░░░░░  ░░░░░        ░░░░░         ░░░░░░░░ ░░░░ ░░░░░  ░░░░░░  ░░░░░ 
                                                                                                                                                                                                                                                       
-       FeatherPanel INSTALLER Mode by - Nobita
+       FeatherPanel INSTALLER Mode by - HexCloud
 EOF
 echo -e "${C_RESET}"
 echo "🧠 OS Detected: $OS ($CODENAME)"

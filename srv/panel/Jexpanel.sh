@@ -1,5 +1,5 @@
 #!/bin/bash
-# Jexactyl Auto Installer with OS Detection + Nobita Banner (Silent Mode)
+# Jexactyl Auto Installer with OS Detection + HexCloud Banner (Silent Mode)
 set -e
 export DEBIAN_FRONTEND=noninteractive
 
@@ -111,7 +111,7 @@ echo -e "║${CYAN}   ██║╚██╗██║██║   ██║██�
 echo -e "║${CYAN}   ██║ ╚████║╚██████╔╝██║  ██║██║   ██║   ██║  ██║        ${PURPLE}║"
 echo -e "║${CYAN}   ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝        ${PURPLE}║"
 echo -e "║${WHITE}                                                          ${PURPLE}║"
-echo -e "║${WHITE}              Nobita Auto Installer                       ${PURPLE}║"
+echo -e "║${WHITE}              HexCloud Auto Installer                       ${PURPLE}║"
 echo -e "║${YELLOW}              (Silent Mode - Minimal Output)               ${PURPLE}║"
 echo -e "╚══════════════════════════════════════════════════════════════╝"
 echo -e "${NC}"
@@ -353,7 +353,7 @@ clear
 print_header
 
 echo -e "${GREEN}"
-animate_text "🎉 Jexactyl Installation Completed Successfully by Nobita!"
+animate_text "🎉 Jexactyl Installation Completed Successfully by HexCloud!"
 echo -e "${NC}"
 
 echo -e ""

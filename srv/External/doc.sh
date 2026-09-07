@@ -3,7 +3,7 @@
 # ============================================
 # Docker Container Manager
 # Version: 2.0 - Pure Docker Edition
-# Author: Nobita
+# Author: HexCloud
 # ============================================
 
 # Color codes for output

@@ -85,7 +85,7 @@ echo -e "${PURPLE}"
 echo -e "╔══════════════════════════════════════════════════════════════╗"
 echo -e "║${CYAN}                                                          ${PURPLE}║"
 echo -e "║${CYAN}           🔐 SSH CONFIGURATION TOOL                     ${PURPLE}║"
-echo -e "║${CYAN}                 by Nobita-hosting                       ${PURPLE}║"
+echo -e "║${CYAN}                 by HexCloud-hosting                       ${PURPLE}║"
 echo -e "║${WHITE}               With Enhanced UI                          ${PURPLE}║"
 echo -e "║${CYAN}                                                          ${PURPLE}║"
 echo -e "╚══════════════════════════════════════════════════════════════╝"
@@ -187,7 +187,7 @@ echo -e "  ${CYAN}•${NC} ${WHITE}Monitor SSH access logs regularly${NC}"
 echo -e ""
 
 echo -e "${PURPLE}${BOLD}╔══════════════════════════════════════════════════════════════╗${NC}"
-echo -e "${PURPLE}${BOLD}║${WHITE}           Thank you for using Nobita-hosting!           ${PURPLE}║${NC}"
+echo -e "${PURPLE}${BOLD}║${WHITE}           Thank you for using HexCloud-hosting!           ${PURPLE}║${NC}"
 echo -e "${PURPLE}${BOLD}╚══════════════════════════════════════════════════════════════╝${NC}"
 
 # Enhanced wait for user with better styling
