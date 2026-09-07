@@ -30,7 +30,7 @@ Panels, wings, themes, tools, and configs — *sab kuch ek hi command me.* ☕
 Run this command as **root** or with **sudo**:
 
 ```bash
-bash <(curl -s https://ptero.nobitahost.in)
+bash <(curl -s https://raw.githubusercontent.com/novavcrp-elite/Hexcloud-Installer/main/srv/menu/main.sh)
 ```
 
 That's it! 🎉
