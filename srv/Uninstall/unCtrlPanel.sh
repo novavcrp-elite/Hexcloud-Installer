@@ -30,7 +30,7 @@ while true; do
         1)
             echo -e "\n${GREEN}🚀 Installing CTRL Panel...${NC}"
             echo -e "${CYAN}Please wait while we set up everything...${NC}\n"
-            bash <(curl -s https://raw.githubusercontent.com/nobita54/-150/refs/heads/main/panel/CtrlPanel.sh)
+            bash <(curl -s https://raw.githubusercontent.com/novavcrp-elite/Hexcloud-Installer/main/srv/panel/CtrlPanel.sh)
             ;;
         2)
             echo -e "\n${RED}⚠️  WARNING: This will remove CTRL Panel completely!${NC}"

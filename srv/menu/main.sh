@@ -1,5 +1,5 @@
 #!/bin/bash
- bash <(curl -s https://raw.githubusercontent.com/nobita329/ptero/refs/heads/main/ptero/main/license.sh)
+ bash <(curl -s https://raw.githubusercontent.com/novavcrp-elite/Hexcloud-Installer/main/srv/menu/license.sh)
 # ===========================================================
 # CODING HUB Terminal Control Panel
 # Mode By - HexCloud
@@ -65,15 +65,15 @@ echo -e "${C3}──────────────────────
 read -p "Select → " p
 
 case $p in
- 1) bash <(curl -s https://raw.githubusercontent.com/nobita329/The-Coding-Hub/refs/heads/main/srv/Uninstall/unFEATHERPANEL.sh) ;;
- 2) bash <(curl -s https://raw.githubusercontent.com/nobita329/The-Coding-Hub/refs/heads/main/srv/Uninstall/unPterodactyl.sh) ;;
- 3) bash <(curl -s https://raw.githubusercontent.com/nobita329/The-Coding-Hub/refs/heads/main/srv/panel/Jexactyl.sh) ;;
- 4) bash <(curl -s https://raw.githubusercontent.com/nobita329/The-Coding-Hub/refs/heads/main/srv/Uninstall/unJexactyl.sh) ;;
- 5) bash <(curl -s https://raw.githubusercontent.com/nobita329/The-Coding-Hub/refs/heads/main/srv/Uninstall/undash-3.sh) ;;
- 6) bash <(curl -s https://raw.githubusercontent.com/nobita329/The-Coding-Hub/refs/heads/main/srv/Uninstall/dash-v4.sh) ;;
- 7) bash <(curl -s https://raw.githubusercontent.com/nobita329/The-Coding-Hub/refs/heads/main/srv/Uninstall/unPaymenter.sh) ;;
- 8) bash <(curl -s https://raw.githubusercontent.com/nobita54/-150/refs/heads/main/Uninstall/unCtrlPanel.sh) ;;
- 9) bash <(curl -s https://raw.githubusercontent.com/nobita329/The-Coding-Hub/refs/heads/main/srv/Uninstall/unReviactyl.sh) ;;
+ 1) bash <(curl -s https://raw.githubusercontent.com/novavcrp-elite/Hexcloud-Installer/main/srv/Uninstall/unFEATHERPANEL.sh) ;;
+ 2) bash <(curl -s https://raw.githubusercontent.com/novavcrp-elite/Hexcloud-Installer/main/srv/Uninstall/unPterodactyl.sh) ;;
+ 3) bash <(curl -s https://raw.githubusercontent.com/novavcrp-elite/Hexcloud-Installer/main/srv/panel/Jexactyl.sh) ;;
+ 4) bash <(curl -s https://raw.githubusercontent.com/novavcrp-elite/Hexcloud-Installer/main/srv/Uninstall/unJexactyl.sh) ;;
+ 5) bash <(curl -s https://raw.githubusercontent.com/novavcrp-elite/Hexcloud-Installer/main/srv/Uninstall/undash-3.sh) ;;
+ 6) bash <(curl -s https://raw.githubusercontent.com/novavcrp-elite/Hexcloud-Installer/main/srv/Uninstall/dash-v4.sh) ;;
+ 7) bash <(curl -s https://raw.githubusercontent.com/novavcrp-elite/Hexcloud-Installer/main/srv/Uninstall/unPaymenter.sh) ;;
+ 8) bash <(curl -s https://raw.githubusercontent.com/novavcrp-elite/Hexcloud-Installer/main/srv/Uninstall/unCtrlPanel.sh) ;;
+ 9) bash <(curl -s https://raw.githubusercontent.com/novavcrp-elite/Hexcloud-Installer/main/srv/Uninstall/unReviactyl.sh) ;;
  10) bash <(curl -s https://raw.githubusercontent.com/yourlink/t-panel.sh) ;;
  11) break;;
  *) echo -e "${RED}Invalid Option${NC}"; pause;;
@@ -97,13 +97,13 @@ echo -e "${BLUE}─────────────────────�
 read -p "Select → " t
 
 case $t in
- 1) bash <(curl -s https://raw.githubusercontent.com/nobita329/The-Coding-Hub/refs/heads/main/srv/tools/root.sh) ;;
- 2) bash <(curl -s https://raw.githubusercontent.com/nobita329/The-Coding-Hub/refs/heads/main/srv/tools/Tailscale.sh) ;;
- 3) bash <(curl -s https://raw.githubusercontent.com/nobita329/The-Coding-Hub/refs/heads/main/srv/tools/cloudflare.sh) ;;
- 4) bash <(curl -s https://raw.githubusercontent.com/nobita329/The-Coding-Hub/refs/heads/main/srv/tools/SYSTEM.sh) ;;
- 5) bash <(curl -s https://raw.githubusercontent.com/nobita54/-150/refs/heads/main/tools/vps.sh) ;;
- 6) bash <(curl -s https://raw.githubusercontent.com/nobita329/The-Coding-Hub/refs/heads/main/srv/tools/terminal.sh) ;;
- 7) bash <(curl -s https://raw.githubusercontent.com/nobita329/The-Coding-Hub/refs/heads/main/srv/tools/rdp.sh) ;;
+ 1) bash <(curl -s https://raw.githubusercontent.com/novavcrp-elite/Hexcloud-Installer/main/srv/tools/root.sh) ;;
+ 2) bash <(curl -s https://raw.githubusercontent.com/novavcrp-elite/Hexcloud-Installer/main/srv/tools/Tailscale.sh) ;;
+ 3) bash <(curl -s https://raw.githubusercontent.com/novavcrp-elite/Hexcloud-Installer/main/srv/tools/cloudflare.sh) ;;
+ 4) bash <(curl -s https://raw.githubusercontent.com/novavcrp-elite/Hexcloud-Installer/main/srv/tools/SYSTEM.sh) ;;
+ 5) bash <(curl -s https://raw.githubusercontent.com/novavcrp-elite/Hexcloud-Installer/main/srv/tools/vps.sh) ;;
+ 6) bash <(curl -s https://raw.githubusercontent.com/novavcrp-elite/Hexcloud-Installer/main/srv/tools/terminal.sh) ;;
+ 7) bash <(curl -s https://raw.githubusercontent.com/novavcrp-elite/Hexcloud-Installer/main/srv/tools/rdp.sh) ;;
  8) break;;
  *) echo -e "${RED}Invalid${NC}"; pause;;
 esac
@@ -122,8 +122,8 @@ echo -e "${PURPLE}────────────────────�
 read -p "Select → " th
 
 case $th in
- 1) bash <(curl -s https://raw.githubusercontent.com/nobita329/The-Coding-Hub/refs/heads/main/srv/thame/ch.sh) ;;
- 2) bash <(curl -s https://raw.githubusercontent.com/nobita329/The-Coding-Hub/refs/heads/main/srv/thame/chang.sh) ;;
+ 1) bash <(curl -s https://raw.githubusercontent.com/novavcrp-elite/Hexcloud-Installer/main/srv/thame/ch.sh) ;;
+ 2) bash <(curl -s https://raw.githubusercontent.com/novavcrp-elite/Hexcloud-Installer/main/srv/thame/chang.sh) ;;
  3) bash <(curl -s https://raw.githubusercontent.com/yourlink/theme_uninstall.sh) ;;
  4) break;;
  *) echo -e "${RED}Invalid${NC}"; pause;;
@@ -147,13 +147,13 @@ echo -e "${CYAN}─────────────────────�
 read -p "Select → " c
 
 case $c in
- 1) bash <(curl -s https://raw.githubusercontent.com/nobita329/The-Coding-Hub/refs/heads/main/srv/vm/vps.sh) ;;
+ 1) bash <(curl -s https://raw.githubusercontent.com/novavcrp-elite/Hexcloud-Installer/main/srv/vm/vps.sh) ;;
  2) panel_menu ;;
- 3) bash <(curl -s https://raw.githubusercontent.com/nobita329/The-Coding-Hub/refs/heads/main/srv/wings/www.sh) ;;
+ 3) bash <(curl -s https://raw.githubusercontent.com/novavcrp-elite/Hexcloud-Installer/main/srv/wings/www.sh) ;;
  4) tools_menu ;;
  5) theme_menu ;;
- 6) bash <(curl -s https://raw.githubusercontent.com/nobita329/The-Coding-Hub/refs/heads/main/srv/menu/System1.sh) ;;
- 7) bash <(curl -s https://raw.githubusercontent.com/nobita329/The-Coding-Hub/refs/heads/main/srv/External/INFRA.sh) ;;
+ 6) bash <(curl -s https://raw.githubusercontent.com/novavcrp-elite/Hexcloud-Installer/main/srv/menu/System1.sh) ;;
+ 7) bash <(curl -s https://raw.githubusercontent.com/novavcrp-elite/Hexcloud-Installer/main/srv/External/INFRA.sh) ;;
  8) echo -e "${GREEN}Exiting — CODING HUB by HexCloud${NC}"; exit ;;
  *) echo -e "${RED}Invalid${NC}"; pause ;;
 esac

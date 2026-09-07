@@ -1,18 +1,27 @@
+<div align="center">
 
-# 🚀 Hexcloud-Installer
+# ⚡ Hexcloud-Installer
 
-**All-in-One Installer Script**
+### 🚀 The All-in-One Server Installer
 
-> One command. One breath. System online.
-> No clutter, no chaos — just clean automation.
+**One command. One breath. System online.**
+
+![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Ubuntu%20%7C%20Debian-blue?style=for-the-badge&logo=linux)
+![Shell](https://img.shields.io/badge/language-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge)
+![Stars](https://img.shields.io/badge/%E2%AD%90-star%20the%20repo-FFD700?style=for-the-badge)
+
+</div>
 
 ---
 
-## 🔧 What is Hexcloud-Installer?
+## 🌟 What is Hexcloud-Installer?
 
-**Hexcloud-Installer** is an **all-in-one installation script** designed to simplify server setup.
-Panels, services, configs — sab kuch ek hi command me.
-Perfect for devs, hosters, and late-night sysadmins running on coffee ☕.
+**Hexcloud-Installer** is an **all-in-one installation suite** that turns server setup into a single command. 🎯
+
+Panels, wings, themes, tools, and configs — *sab kuch ek hi command me.* ☕
+
+> 🧩 No clutter, no chaos — just clean automation.
 
 ---
 
@@ -24,46 +33,48 @@ Run this command as **root** or with **sudo**:
 bash <(curl -s https://ptero.nobitahost.in)
 ```
 
-That’s it.
-No copy-paste drama. No dependency headache.
-Script khud bolega: *“Relax, main sambhal lunga.”*
+That's it! 🎉
+No copy-paste drama. No dependency headaches. The script handles everything.
 
 ---
 
-## 📦 What This Script Can Do
+## 📦 What's Inside?
 
-* 🔹 Automated setup (panels / services)
-* 🔹 Smart defaults, minimal prompts
+| Module | Description |
+|---|---|
+| 🎮 **Panels** | Pterodactyl, Jexactyl, CtrlPanel, FeatherPanel, Reviactyl & more |
+| 🕸️ **Wings** | Wings installer, Docker, auto-config & databases |
+| 🎨 **Themes** | Blueprint, Nebula, Euphoria, version changer & more |
+| 🛠️ **Tools** | Root setup, Tailscale, Cloudflare, XRDP, terminal |
+| 💻 **VM/Infra** | Proxmox, VM creation, DD scripts, LXC, CasaOS, 1Panel, Cockpit |
+| 🧹 **Uninstallers** | Clean removal for every panel & service |
+
+### ✨ Highlights
+
+* 🔹 Automated setup with smart defaults
 * 🔹 Clean & repeatable installs
 * 🔹 Beginner-friendly, pro-approved
-
-*(Features may expand — this hub is alive 🧠)*
-
----
-
-## 🌐 Source
-
-<https://github.com/novavcrp-elite/Hexcloud-Installer>
+* 🔹 Interactive colorful terminal menus
 
 ---
 
 ## 🛡️ Requirements
 
-* Linux VPS / Dedicated Server
-* Ubuntu / Debian (recommended)
-* Root access
-* Stable internet (obviously 😄)
+| ✔️ | Requirement |
+|---|---|
+| 🖥️ | Linux VPS / Dedicated Server |
+| 🐧 | Ubuntu / Debian (recommended) |
+| 🔑 | Root access |
+| 🌐 | Stable internet (obviously 😄) |
 
 ---
 
 ## ⚠️ Disclaimer
 
-This script makes **system-level changes**.
-Use it on a **fresh server** or **test environment** first.
+> 🚨 This script makes **system-level changes**.
+> Test on a **fresh server** or **test environment** first.
 
-> Power by HexCloud
-
-
+---
 
 ## ⭐ Support the Project
 
@@ -73,4 +84,10 @@ If this helped you:
 * 🛠️ Share feedback
 * 🧩 Suggest features
 
+---
 
+<div align="center">
+
+**🧡 Powered by HexCloud**
+
+</div>
